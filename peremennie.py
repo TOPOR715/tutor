@@ -3,9 +3,15 @@
 # для переменный со значением str(строка), мы используем ""
 # Для цифр ничего не испульзуем
 
-x = "sdasdasd"
-y = "123"
-print(type(x))
-print(type(y))
+# x = "sdasdasd"
+# y = "123"
+# print(type(x))
+# print(type(y))
 
-print("sdasd"+2)
+# print("sdasd"+2)
+
+#функции
+
+# создание функции 'def', после указываем название def name, ставим скобки () итог: def name()
+def test():
+    print("Приветик")
