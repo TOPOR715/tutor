@@ -4,5 +4,8 @@
 # Для цифр ничего не испульзуем
 
 x = "sdasdasd"
-y = 123
-print(x, y)
+y = "123"
+print(type(x))
+print(type(y))
+
+print("sdasd"+2)
